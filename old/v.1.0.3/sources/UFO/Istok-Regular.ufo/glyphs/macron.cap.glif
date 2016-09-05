@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.cap" format="2">
+  <advance width="820"/>
+  <unicode hex="F6D0"/>
+  <outline>
+    <contour>
+      <point x="90.0" y="1558.0" type="line" smooth="yes"/>
+      <point x="45.0" y="1558.0"/>
+      <point x="45.0" y="1598.0" type="qcurve" smooth="yes"/>
+      <point x="45.0" y="1648.0" type="line" smooth="yes"/>
+      <point x="45.0" y="1688.0"/>
+      <point x="90.0" y="1688.0" type="qcurve" smooth="yes"/>
+      <point x="730.0" y="1688.0" type="line" smooth="yes"/>
+      <point x="775.0" y="1688.0"/>
+      <point x="775.0" y="1648.0" type="qcurve" smooth="yes"/>
+      <point x="775.0" y="1598.0" type="line" smooth="yes"/>
+      <point x="775.0" y="1558.0"/>
+      <point x="730.0" y="1558.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

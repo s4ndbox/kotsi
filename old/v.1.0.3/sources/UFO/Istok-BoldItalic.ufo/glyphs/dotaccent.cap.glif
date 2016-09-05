@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.cap" format="2">
+  <advance width="820"/>
+  <unicode hex="EFED"/>
+  <outline>
+    <contour>
+      <point x="566.0" y="1526.0" type="line" smooth="yes"/>
+      <point x="496.0" y="1526.0"/>
+      <point x="514.0" y="1601.0" type="qcurve" smooth="yes"/>
+      <point x="540.0" y="1715.0" type="line" smooth="yes"/>
+      <point x="557.0" y="1790.0"/>
+      <point x="627.0" y="1790.0" type="qcurve" smooth="yes"/>
+      <point x="779.0" y="1790.0" type="line" smooth="yes"/>
+      <point x="849.0" y="1790.0"/>
+      <point x="832.0" y="1715.0" type="qcurve" smooth="yes"/>
+      <point x="806.0" y="1601.0" type="line" smooth="yes"/>
+      <point x="789.0" y="1526.0"/>
+      <point x="718.0" y="1526.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2215" format="2">
+  <advance width="912"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="-257.0" y="-21.0" type="line" smooth="yes"/>
+      <point x="-290.0" y="10.0"/>
+      <point x="-246.0" y="57.0" type="qcurve" smooth="yes"/>
+      <point x="1114.0" y="1515.0" type="line" smooth="yes"/>
+      <point x="1163.0" y="1567.0"/>
+      <point x="1195.0" y="1536.0" type="qcurve" smooth="yes"/>
+      <point x="1263.0" y="1471.0" type="line" smooth="yes"/>
+      <point x="1296.0" y="1440.0"/>
+      <point x="1252.0" y="1393.0" type="qcurve" smooth="yes"/>
+      <point x="-107.0" y="-65.0" type="line" smooth="yes"/>
+      <point x="-155.0" y="-117.0"/>
+      <point x="-188.0" y="-86.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

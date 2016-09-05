@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cyrBreve" format="2">
+  <advance width="1492"/>
+  <unicode hex="F6D1"/>
+  <outline>
+    <contour>
+      <point x="636.0" y="1809.0" type="line" smooth="yes"/>
+      <point x="646.0" y="1877.0"/>
+      <point x="714.0" y="1877.0" type="qcurve" smooth="yes"/>
+      <point x="822.0" y="1877.0" type="line" smooth="yes"/>
+      <point x="881.0" y="1877.0"/>
+      <point x="875.0" y="1829.0" type="qcurve" smooth="yes"/>
+      <point x="871.0" y="1796.0" type="line" smooth="yes"/>
+      <point x="867.0" y="1761.0"/>
+      <point x="912.0" y="1698.0"/>
+      <point x="988.0" y="1698.0" type="qcurve" smooth="yes"/>
+      <point x="1106.0" y="1698.0"/>
+      <point x="1268.0" y="1832.0"/>
+      <point x="1311.0" y="1886.0" type="qcurve" smooth="yes"/>
+      <point x="1349.0" y="1934.0"/>
+      <point x="1389.0" y="1904.0" type="qcurve" smooth="yes"/>
+      <point x="1443.0" y="1863.0" type="line" smooth="yes"/>
+      <point x="1477.0" y="1837.0"/>
+      <point x="1445.0" y="1793.0" type="qcurve" smooth="yes"/>
+      <point x="1374.0" y="1694.0"/>
+      <point x="1134.0" y="1540.0"/>
+      <point x="951.0" y="1540.0" type="qcurve" smooth="yes"/>
+      <point x="790.0" y="1540.0"/>
+      <point x="614.0" y="1666.0"/>
+      <point x="628.0" y="1756.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

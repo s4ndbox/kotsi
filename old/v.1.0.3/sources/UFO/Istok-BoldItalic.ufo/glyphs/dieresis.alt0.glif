@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.alt0" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="233.0" y="1210.0" type="line" smooth="yes"/>
+      <point x="173.0" y="1210.0"/>
+      <point x="187.0" y="1270.0" type="qcurve" smooth="yes"/>
+      <point x="212.0" y="1378.0" type="line" smooth="yes"/>
+      <point x="226.0" y="1438.0"/>
+      <point x="286.0" y="1438.0" type="qcurve" smooth="yes"/>
+      <point x="394.0" y="1438.0" type="line" smooth="yes"/>
+      <point x="454.0" y="1438.0"/>
+      <point x="440.0" y="1378.0" type="qcurve" smooth="yes"/>
+      <point x="415.0" y="1270.0" type="line" smooth="yes"/>
+      <point x="401.0" y="1210.0"/>
+      <point x="341.0" y="1210.0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="591.0" y="1210.0" type="line" smooth="yes"/>
+      <point x="531.0" y="1210.0"/>
+      <point x="545.0" y="1270.0" type="qcurve" smooth="yes"/>
+      <point x="570.0" y="1378.0" type="line" smooth="yes"/>
+      <point x="584.0" y="1438.0"/>
+      <point x="644.0" y="1438.0" type="qcurve" smooth="yes"/>
+      <point x="752.0" y="1438.0" type="line" smooth="yes"/>
+      <point x="812.0" y="1438.0"/>
+      <point x="798.0" y="1378.0" type="qcurve" smooth="yes"/>
+      <point x="773.0" y="1270.0" type="line" smooth="yes"/>
+      <point x="759.0" y="1210.0"/>
+      <point x="699.0" y="1210.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

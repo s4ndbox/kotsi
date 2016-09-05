@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="668"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="period" xOffset="177.0" yOffset="766.0"/>
+    <component base="comma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

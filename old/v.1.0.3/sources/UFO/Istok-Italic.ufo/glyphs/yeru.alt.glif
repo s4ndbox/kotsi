@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru.alt" format="2">
+  <advance width="1432"/>
+  <outline>
+    <component base="soft.alt"/>
+    <component base="dotlessi" xOffset="972.0"/>
+  </outline>
+</glyph>

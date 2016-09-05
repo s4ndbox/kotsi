@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="2">
+  <advance width="1280"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="182.0" y="632.0" type="line" smooth="yes"/>
+      <point x="122.0" y="632.0"/>
+      <point x="122.0" y="682.0" type="qcurve" smooth="yes"/>
+      <point x="122.0" y="768.0" type="line" smooth="yes"/>
+      <point x="122.0" y="818.0"/>
+      <point x="182.0" y="818.0" type="qcurve" smooth="yes"/>
+      <point x="1192.0" y="818.0" type="line" smooth="yes"/>
+      <point x="1252.0" y="818.0"/>
+      <point x="1252.0" y="768.0" type="qcurve" smooth="yes"/>
+      <point x="1252.0" y="682.0" type="line" smooth="yes"/>
+      <point x="1252.0" y="632.0"/>
+      <point x="1192.0" y="632.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

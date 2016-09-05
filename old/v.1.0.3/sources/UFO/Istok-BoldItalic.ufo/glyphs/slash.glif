@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="856"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="-177.0" y="-368.0" type="line" smooth="yes"/>
+      <point x="-217.0" y="-345.0"/>
+      <point x="-185.0" y="-294.0" type="qcurve" smooth="yes"/>
+      <point x="878.0" y="1432.0" type="line" smooth="yes"/>
+      <point x="915.0" y="1493.0"/>
+      <point x="955.0" y="1470.0" type="qcurve" smooth="yes"/>
+      <point x="1037.0" y="1423.0" type="line" smooth="yes"/>
+      <point x="1077.0" y="1400.0"/>
+      <point x="1045.0" y="1349.0" type="qcurve" smooth="yes"/>
+      <point x="-19.0" y="-377.0" type="line" smooth="yes"/>
+      <point x="-56.0" y="-437.0"/>
+      <point x="-95.0" y="-415.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

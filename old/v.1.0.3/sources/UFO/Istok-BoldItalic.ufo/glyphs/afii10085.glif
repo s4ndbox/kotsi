@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10085" format="2">
+  <advance width="1194"/>
+  <unicode hex="0443"/>
+  <outline>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

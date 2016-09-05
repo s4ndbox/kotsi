@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="2">
+  <advance width="820"/>
+  <unicode hex="F6C9"/>
+  <outline>
+    <contour>
+      <point x="522.0" y="1540.0" type="line" smooth="yes"/>
+      <point x="462.0" y="1540.0"/>
+      <point x="511.0" y="1604.0" type="qcurve" smooth="yes"/>
+      <point x="613.0" y="1738.0" type="line" smooth="yes"/>
+      <point x="649.0" y="1785.0"/>
+      <point x="733.0" y="1785.0" type="qcurve" smooth="yes"/>
+      <point x="909.0" y="1785.0" type="line" smooth="yes"/>
+      <point x="984.0" y="1785.0"/>
+      <point x="919.0" y="1724.0" type="qcurve" smooth="yes"/>
+      <point x="764.0" y="1578.0" type="line" smooth="yes"/>
+      <point x="724.0" y="1540.0"/>
+      <point x="645.0" y="1540.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

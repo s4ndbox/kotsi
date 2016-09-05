@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+  <advance width="612"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis.alt1" xOffset="-104.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

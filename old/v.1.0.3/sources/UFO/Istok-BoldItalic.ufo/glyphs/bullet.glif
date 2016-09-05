@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="1024"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="300.0" y="694.0" type="qcurve" smooth="yes"/>
+      <point x="300.0" y="798.0"/>
+      <point x="448.0" y="946.0"/>
+      <point x="552.0" y="946.0" type="qcurve" smooth="yes"/>
+      <point x="656.0" y="946.0"/>
+      <point x="804.0" y="798.0"/>
+      <point x="804.0" y="694.0" type="qcurve" smooth="yes"/>
+      <point x="804.0" y="590.0"/>
+      <point x="656.0" y="442.0"/>
+      <point x="552.0" y="442.0" type="qcurve" smooth="yes"/>
+      <point x="448.0" y="442.0"/>
+      <point x="300.0" y="590.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

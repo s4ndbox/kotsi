@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.cap" format="2">
+  <advance width="820"/>
+  <unicode hex="F6CF"/>
+  <outline>
+    <contour>
+      <point x="85.0" y="1540.0" type="line" smooth="yes"/>
+      <point x="30.0" y="1540.0"/>
+      <point x="73.0" y="1593.0" type="qcurve" smooth="yes"/>
+      <point x="200.0" y="1748.0" type="line" smooth="yes"/>
+      <point x="230.0" y="1785.0"/>
+      <point x="281.0" y="1785.0" type="qcurve" smooth="yes"/>
+      <point x="400.0" y="1785.0" type="line" smooth="yes"/>
+      <point x="473.0" y="1785.0"/>
+      <point x="414.0" y="1733.0" type="qcurve" smooth="yes"/>
+      <point x="227.0" y="1569.0" type="line" smooth="yes"/>
+      <point x="194.0" y="1540.0"/>
+      <point x="150.0" y="1540.0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="455.0" y="1540.0" type="line" smooth="yes"/>
+      <point x="400.0" y="1540.0"/>
+      <point x="443.0" y="1593.0" type="qcurve" smooth="yes"/>
+      <point x="570.0" y="1748.0" type="line" smooth="yes"/>
+      <point x="600.0" y="1785.0"/>
+      <point x="651.0" y="1785.0" type="qcurve" smooth="yes"/>
+      <point x="770.0" y="1785.0" type="line" smooth="yes"/>
+      <point x="843.0" y="1785.0"/>
+      <point x="784.0" y="1733.0" type="qcurve" smooth="yes"/>
+      <point x="597.0" y="1569.0" type="line" smooth="yes"/>
+      <point x="564.0" y="1540.0"/>
+      <point x="520.0" y="1540.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

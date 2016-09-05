@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+  <advance width="670"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="90.0" y="316.0" type="qcurve" smooth="yes"/>
+      <point x="90.0" y="603.0"/>
+      <point x="393.0" y="1206.0"/>
+      <point x="714.0" y="1497.0" type="qcurve" smooth="yes"/>
+      <point x="757.0" y="1536.0"/>
+      <point x="784.0" y="1511.0" type="qcurve" smooth="yes"/>
+      <point x="816.0" y="1481.0" type="line" smooth="yes"/>
+      <point x="844.0" y="1455.0"/>
+      <point x="809.0" y="1423.0" type="qcurve" smooth="yes"/>
+      <point x="687.0" y="1314.0"/>
+      <point x="286.0" y="669.0"/>
+      <point x="286.0" y="286.0" type="qcurve" smooth="yes"/>
+      <point x="286.0" y="45.0"/>
+      <point x="348.0" y="-267.0"/>
+      <point x="390.0" y="-343.0" type="qcurve" smooth="yes"/>
+      <point x="413.0" y="-384.0"/>
+      <point x="386.0" y="-402.0" type="qcurve" smooth="yes"/>
+      <point x="349.0" y="-426.0" type="line" smooth="yes"/>
+      <point x="319.0" y="-445.0"/>
+      <point x="283.0" y="-400.0" type="qcurve" smooth="yes"/>
+      <point x="189.0" y="-282.0"/>
+      <point x="90.0" y="146.0"/>
+    </contour>
+  </outline>
+</glyph>

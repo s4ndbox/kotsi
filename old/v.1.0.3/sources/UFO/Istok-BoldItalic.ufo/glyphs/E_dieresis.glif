@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="2">
+  <advance width="1280"/>
+  <unicode hex="00CB"/>
+  <outline>
+    <component base="dieresis.cap" xOffset="265.0"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

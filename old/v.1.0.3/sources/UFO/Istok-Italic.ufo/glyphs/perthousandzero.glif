@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousandzero" format="2">
+  <advance width="698"/>
+  <unicode hex="F102"/>
+  <outline>
+    <contour>
+      <point x="-10.0" y="258.0" type="qcurve" smooth="yes"/>
+      <point x="-10.0" y="426.0"/>
+      <point x="216.0" y="713.0"/>
+      <point x="365.0" y="713.0" type="qcurve" smooth="yes"/>
+      <point x="508.0" y="713.0"/>
+      <point x="620.0" y="540.0"/>
+      <point x="620.0" y="398.0" type="qcurve" smooth="yes"/>
+      <point x="620.0" y="230.0"/>
+      <point x="394.0" y="-57.0"/>
+      <point x="245.0" y="-57.0" type="qcurve" smooth="yes"/>
+      <point x="102.0" y="-57.0"/>
+      <point x="-10.0" y="116.0"/>
+    </contour>
+    <contour>
+      <point x="150.0" y="238.0" type="qcurve" smooth="yes"/>
+      <point x="150.0" y="158.0"/>
+      <point x="190.0" y="58.0"/>
+      <point x="255.0" y="58.0" type="qcurve" smooth="yes"/>
+      <point x="335.0" y="58.0"/>
+      <point x="460.0" y="278.0"/>
+      <point x="460.0" y="418.0" type="qcurve" smooth="yes"/>
+      <point x="460.0" y="498.0"/>
+      <point x="420.0" y="598.0"/>
+      <point x="355.0" y="598.0" type="qcurve" smooth="yes"/>
+      <point x="275.0" y="598.0"/>
+      <point x="150.0" y="378.0"/>
+    </contour>
+  </outline>
+</glyph>
