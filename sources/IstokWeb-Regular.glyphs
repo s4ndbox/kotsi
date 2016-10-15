@@ -277,16 +277,98 @@ name = liga;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{1006, 16}",
+"{700, 16}",
+"{513, 9}",
+"{0, -16}",
+"{-433, -16}"
+);
 ascender = 1006;
 capHeight = 700;
+customParameters = (
+{
+name = winAscent;
+value = 1489;
+},
+{
+name = winDescent;
+value = 349;
+},
+{
+name = typoAscender;
+value = 729;
+},
+{
+name = hheaAscender;
+value = 729;
+},
+{
+name = typoDescender;
+value = -195;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -433;
 id = UUID0;
 weightValue = 0;
 xHeight = 513;
 },
 {
+alignmentZones = (
+"{1006, 16}",
+"{700, 18}",
+"{513, 10}",
+"{0, -18}",
+"{-433, -16}"
+);
 ascender = 1006;
 capHeight = 700;
+customParameters = (
+{
+name = winAscent;
+value = 1489;
+},
+{
+name = winDescent;
+value = 349;
+},
+{
+name = typoAscender;
+value = 729;
+},
+{
+name = hheaAscender;
+value = 729;
+},
+{
+name = typoDescender;
+value = -195;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -433;
 id = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
 weight = Bold;

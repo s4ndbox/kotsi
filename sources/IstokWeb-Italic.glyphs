@@ -286,6 +286,40 @@ alignmentZones = (
 );
 ascender = 1006;
 capHeight = 700;
+customParameters = (
+{
+name = winAscent;
+value = 1489;
+},
+{
+name = winDescent;
+value = 349;
+},
+{
+name = typoAscender;
+value = 729;
+},
+{
+name = hheaAscender;
+value = 729;
+},
+{
+name = typoDescender;
+value = -195;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -433;
 id = UUID0;
 italicAngle = 13;
@@ -302,6 +336,40 @@ alignmentZones = (
 );
 ascender = 1006;
 capHeight = 700;
+customParameters = (
+{
+name = winAscent;
+value = 1489;
+},
+{
+name = winDescent;
+value = 349;
+},
+{
+name = typoAscender;
+value = 729;
+},
+{
+name = hheaAscender;
+value = 729;
+},
+{
+name = typoDescender;
+value = -195;
+},
+{
+name = hheaDescender;
+value = -195;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoLineGap;
+value = 0;
+}
+);
 descender = -433;
 id = "E33CDA44-370B-4890-B9EA-9A4809AB9281";
 italicAngle = 13;
