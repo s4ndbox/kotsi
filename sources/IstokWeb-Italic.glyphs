@@ -289,7 +289,7 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1489;
+value = 1022;
 },
 {
 name = winDescent;
@@ -339,7 +339,7 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1489;
+value = 1022;
 },
 {
 name = winDescent;
