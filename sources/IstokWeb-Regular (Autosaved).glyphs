@@ -67515,7 +67515,7 @@ unicode = 0413;
 },
 {
 glyphname = "Gje-cy";
-lastChange = "2016-10-15 04:12:51 +0000";
+lastChange = "2016-10-15 05:15:30 +0000";
 layers = (
 {
 anchors = (
@@ -67553,8 +67553,8 @@ components = (
 name = "Ge-cy";
 },
 {
-name = acute.case;
-transform = "{1, 0, 0, 1, 68, 0}";
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, -133, -715}";
 }
 );
 layerId = UUID0;
@@ -67588,8 +67588,8 @@ components = (
 name = "Ge-cy";
 },
 {
-name = acute.case;
-transform = "{1, 0, 0, 1, 73, 0}";
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, -135, -717}";
 }
 );
 layerId = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
@@ -67597,6 +67597,7 @@ width = 546;
 }
 );
 unicode = 0403;
+changeCount = 2;
 },
 {
 glyphname = "Gheupturn-cy";
@@ -67941,7 +67942,7 @@ unicode = 0415;
 },
 {
 glyphname = "Iegrave-cy";
-lastChange = "2016-10-15 04:12:42 +0000";
+lastChange = "2016-10-15 05:15:36 +0000";
 layers = (
 {
 anchors = (
@@ -67976,11 +67977,11 @@ position = "{0, 0}";
 );
 components = (
 {
-name = grave.case;
-transform = "{1, 0, 0, 1, 104, 0}";
+name = "Ie-cy";
 },
 {
-name = E;
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 153, 0}";
 }
 );
 layerId = UUID0;
@@ -68011,11 +68012,11 @@ position = "{0, 0}";
 );
 components = (
 {
-name = grave.case;
-transform = "{1, 0, 0, 1, 103, 0}";
+name = "Ie-cy";
 },
 {
-name = E;
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
 layerId = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
@@ -68023,10 +68024,11 @@ width = 625;
 }
 );
 unicode = 0400;
+changeCount = 2;
 },
 {
 glyphname = "Io-cy";
-lastChange = "2016-10-15 04:12:42 +0000";
+lastChange = "2016-10-15 05:15:36 +0000";
 layers = (
 {
 anchors = (
@@ -68061,11 +68063,11 @@ position = "{0, 0}";
 );
 components = (
 {
-name = dieresis.case;
-transform = "{1, 0, 0, 1, 129, 0}";
+name = "Ie-cy";
 },
 {
-name = E;
+name = dieresiscomb.case;
+transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = UUID0;
@@ -68096,11 +68098,11 @@ position = "{0, 0}";
 );
 components = (
 {
-name = dieresis.case;
-transform = "{1, 0, 0, 1, 129, 0}";
+name = "Ie-cy";
 },
 {
-name = E;
+name = dieresiscomb.case;
+transform = "{1, 0, 0, 1, 87, 0}";
 }
 );
 layerId = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
@@ -68108,6 +68110,7 @@ width = 625;
 }
 );
 unicode = 0401;
+changeCount = 2;
 },
 {
 glyphname = "Zhe-cy";
@@ -68845,7 +68848,7 @@ unicode = 0419;
 },
 {
 glyphname = "Iigrave-cy";
-lastChange = "2016-10-15 04:12:51 +0000";
+lastChange = "2016-10-15 05:15:29 +0000";
 layers = (
 {
 anchors = (
@@ -68880,11 +68883,11 @@ position = "{0, 0}";
 );
 components = (
 {
-name = grave.case;
-transform = "{1, 0, 0, 1, 129, 0}";
+name = "Ii-cy";
 },
 {
-name = "Ii-cy";
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = UUID0;
@@ -68915,11 +68918,11 @@ position = "{0, 0}";
 );
 components = (
 {
-name = grave.case;
-transform = "{1, 0, 0, 1, 136, 0}";
+name = "Ii-cy";
 },
 {
-name = "Ii-cy";
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 184, 0}";
 }
 );
 layerId = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
@@ -68927,6 +68930,7 @@ width = 729;
 }
 );
 unicode = 040D;
+changeCount = 2;
 },
 {
 glyphname = "Ka-cy";
@@ -69123,7 +69127,7 @@ unicode = 041A;
 },
 {
 glyphname = "Kje-cy";
-lastChange = "2016-10-15 04:12:51 +0000";
+lastChange = "2016-10-15 05:15:36 +0000";
 layers = (
 {
 anchors = (
@@ -69161,8 +69165,8 @@ components = (
 name = "Ka-cy";
 },
 {
-name = acute.case;
-transform = "{1, 0, 0, 1, 106, 0}";
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, -133, -715}";
 }
 );
 layerId = UUID0;
@@ -69196,8 +69200,8 @@ components = (
 name = "Ka-cy";
 },
 {
-name = acute.case;
-transform = "{1, 0, 0, 1, 105, 0}";
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, -135, -717}";
 }
 );
 layerId = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
@@ -69205,6 +69209,7 @@ width = 658;
 }
 );
 unicode = 040C;
+changeCount = 2;
 },
 {
 glyphname = "El-cy";
@@ -72428,7 +72433,7 @@ unicode = 0406;
 },
 {
 glyphname = "Yi-cy";
-lastChange = "2016-10-15 04:12:42 +0000";
+lastChange = "2016-10-15 05:15:44 +0000";
 layers = (
 {
 anchors = (
@@ -72466,8 +72471,8 @@ components = (
 name = I;
 },
 {
-name = dieresis.alt1;
-transform = "{1, 0, 0, 1, -70, 0}";
+name = dieresiscomb.case;
+transform = "{1, 0, 0, 1, -87, 0}";
 }
 );
 layerId = UUID0;
@@ -72501,8 +72506,8 @@ components = (
 name = I;
 },
 {
-name = dieresis.alt1;
-transform = "{1, 0, 0, 1, -51, 0}";
+name = dieresiscomb.case;
+transform = "{1, 0, 0, 1, -95, 0}";
 }
 );
 layerId = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
@@ -72510,6 +72515,7 @@ width = 299;
 }
 );
 unicode = 0407;
+changeCount = 2;
 },
 {
 glyphname = "Je-cy";
