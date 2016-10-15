@@ -65513,7 +65513,9 @@ name = Regular;
 instanceInterpolations = {
 "39B5C782-31E0-4FF6-90B4-6BA13107E116" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 keyboardIncrement = 0;

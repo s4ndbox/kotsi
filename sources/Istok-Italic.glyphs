@@ -57735,16 +57735,16 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
 instanceInterpolations = {
 "18E77EB5-4A27-4F30-B34A-BA542DA126C8" = 1;
 };
+isBold = 1;
 isItalic = 1;
-linkStyle = Regular;
 name = "Bold Italic";
+weightClass = Bold;
 }
 );
 keyboardIncrement = 0;
