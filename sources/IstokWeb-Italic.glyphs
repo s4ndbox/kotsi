@@ -1,8 +1,5 @@
 {
 .appVersion = "926";
-DisplayStrings = (
-"Highest\012/quotedblleft/Iishort-cy/Ushort-cy/Zhebreve-cy/Abreve-cy/Iebreve-cy/brevecomb-cy.case \U00C5/Uring/ringcomb.case/Abreve/Ainvertedbreve/Ebreve/Einvertedbreve/Gbreve/Ibreve/Iinvertedbreve/Obreve/Oinvertedbreve/Rinvertedbreve \012Lowest\012/commaaccentcomb/brevebelowcomb.case/integral/brevebelowcomb ()/Adotbelow/Edotbelow/Idotbelow/Odotbelow/Udotbelow/macronbelowcomb/dotbelowcomb.case |_///Aogonek/Eogonek/aogonek/eogonek"
-);
 classes = (
 {
 automatic = 1;
@@ -291,36 +288,36 @@ ascender = 721;
 capHeight = 700;
 customParameters = (
 {
-name = hheaAscender;
-value = 730;
+name = hheaDescender;
+value = -433;
 },
 {
-name = hheaDescender;
-value = -195;
+name = typoDescender;
+value = -433;
 },
 {
 name = hheaLineGap;
 value = 0;
 },
 {
-name = typoAscender;
-value = 729;
-},
-{
-name = typoDescender;
-value = -195;
-},
-{
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 935;
+name = hheaAscender;
+value = 1007;
+},
+{
+name = typoAscender;
+value = 1007;
 },
 {
 name = winDescent;
 value = 349;
+},
+{
+name = winAscent;
+value = 935;
 }
 );
 descender = -195;
@@ -341,36 +338,36 @@ ascender = 721;
 capHeight = 700;
 customParameters = (
 {
-name = hheaAscender;
-value = 730;
+name = hheaDescender;
+value = -433;
 },
 {
-name = hheaDescender;
-value = -195;
+name = typoDescender;
+value = -433;
 },
 {
 name = hheaLineGap;
 value = 0;
 },
 {
-name = typoAscender;
-value = 729;
-},
-{
-name = typoDescender;
-value = -195;
-},
-{
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 935;
+name = hheaAscender;
+value = 1007;
+},
+{
+name = typoAscender;
+value = 1007;
 },
 {
 name = winDescent;
 value = 349;
+},
+{
+name = winAscent;
+value = 935;
 }
 );
 descender = -195;

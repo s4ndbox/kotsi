@@ -282,45 +282,45 @@ alignmentZones = (
 "{700, 16}",
 "{513, 9}",
 "{0, -16}",
-"{-433, -16}"
+"{-195, -10}"
 );
 ascender = 729;
 capHeight = 700;
 customParameters = (
 {
-name = winAscent;
-value = 918;
-},
-{
-name = winDescent;
-value = 340;
-},
-{
-name = typoAscender;
-value = 729;
-},
-{
 name = hheaAscender;
-value = 729;
-},
-{
-name = typoDescender;
-value = -195;
+value = 1007;
 },
 {
 name = hheaDescender;
-value = -195;
+value = -433;
 },
 {
 name = hheaLineGap;
 value = 0;
 },
 {
+name = typoAscender;
+value = 1007;
+},
+{
+name = typoDescender;
+value = -433;
+},
+{
 name = typoLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 935;
+},
+{
+name = winDescent;
+value = 349;
 }
 );
-descender = -433;
+descender = -195;
 id = UUID0;
 weightValue = 0;
 xHeight = 513;
@@ -331,34 +331,18 @@ alignmentZones = (
 "{700, 18}",
 "{513, 10}",
 "{0, -18}",
-"{-433, -16}"
+"{-195, -11}"
 );
 ascender = 730;
 capHeight = 700;
 customParameters = (
 {
-name = winAscent;
-value = 918;
-},
-{
-name = winDescent;
-value = 340;
-},
-{
-name = typoAscender;
-value = 729;
-},
-{
-name = hheaAscender;
-value = 729;
+name = hheaDescender;
+value = -433;
 },
 {
 name = typoDescender;
-value = -195;
-},
-{
-name = hheaDescender;
-value = -195;
+value = -433;
 },
 {
 name = hheaLineGap;
@@ -367,9 +351,25 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = hheaAscender;
+value = 1007;
+},
+{
+name = typoAscender;
+value = 1007;
+},
+{
+name = winDescent;
+value = 349;
+},
+{
+name = winAscent;
+value = 935;
 }
 );
-descender = -433;
+descender = -195;
 id = "7D4B8FA6-1CBF-4C70-BCBE-1433105F567F";
 weight = Bold;
 xHeight = 513;
