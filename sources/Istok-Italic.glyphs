@@ -58190,7 +58190,7 @@ name = "Bold Italic";
 keyboardIncrement = 0;
 manufacturer = "Andrey V. Panov";
 manufacturerURL = "http://code.google.com/p/istok";
-unitsPerEm = 2048;
+unitsPerEm = 1000;
 versionMajor = 2;
 versionMinor = 0;
 }
