@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cap" format="2">
+  <advance width="820"/>
+  <unicode hex="EFF7"/>
+  <outline>
+    <contour>
+      <point x="263.0" y="1589.0" type="line" smooth="yes"/>
+      <point x="247.0" y="1631.0"/>
+      <point x="300.0" y="1651.0" type="qcurve" smooth="yes"/>
+      <point x="574.0" y="1753.0" type="line" smooth="yes"/>
+      <point x="609.0" y="1766.0"/>
+      <point x="652.0" y="1766.0" type="qcurve" smooth="yes"/>
+      <point x="712.0" y="1766.0" type="line" smooth="yes"/>
+      <point x="755.0" y="1766.0"/>
+      <point x="784.0" y="1753.0" type="qcurve" smooth="yes"/>
+      <point x="1017.0" y="1647.0" type="line" smooth="yes"/>
+      <point x="1068.0" y="1624.0"/>
+      <point x="1040.0" y="1577.0" type="qcurve" smooth="yes"/>
+      <point x="1016.0" y="1536.0" type="line" smooth="yes"/>
+      <point x="990.0" y="1491.0"/>
+      <point x="941.0" y="1513.0" type="qcurve" smooth="yes"/>
+      <point x="679.0" y="1632.0" type="line"/>
+      <point x="677.0" y="1632.0" type="line"/>
+      <point x="355.0" y="1510.0" type="line" smooth="yes"/>
+      <point x="300.0" y="1489.0"/>
+      <point x="284.0" y="1533.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

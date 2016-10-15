@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="2">
+  <advance width="1032"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="103.0" y="453.0" type="line" smooth="yes"/>
+      <point x="43.0" y="453.0"/>
+      <point x="43.0" y="503.0" type="qcurve" smooth="yes"/>
+      <point x="43.0" y="603.0" type="line" smooth="yes"/>
+      <point x="43.0" y="653.0"/>
+      <point x="103.0" y="653.0" type="qcurve" smooth="yes"/>
+      <point x="937.0" y="653.0" type="line" smooth="yes"/>
+      <point x="997.0" y="653.0"/>
+      <point x="997.0" y="603.0" type="qcurve" smooth="yes"/>
+      <point x="997.0" y="503.0" type="line" smooth="yes"/>
+      <point x="997.0" y="453.0"/>
+      <point x="937.0" y="453.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+  <advance width="614"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="300.0" y="1313.0" type="qcurve" smooth="yes"/>
+      <point x="300.0" y="1390.0"/>
+      <point x="410.0" y="1499.0"/>
+      <point x="489.0" y="1499.0" type="qcurve" smooth="yes"/>
+      <point x="568.0" y="1499.0"/>
+      <point x="678.0" y="1390.0"/>
+      <point x="678.0" y="1313.0" type="qcurve" smooth="yes"/>
+      <point x="678.0" y="1236.0"/>
+      <point x="568.0" y="1127.0"/>
+      <point x="489.0" y="1127.0" type="qcurve" smooth="yes"/>
+      <point x="410.0" y="1127.0"/>
+      <point x="300.0" y="1236.0"/>
+    </contour>
+    <contour>
+      <point x="395.0" y="1313.0" type="qcurve" smooth="yes"/>
+      <point x="395.0" y="1273.0"/>
+      <point x="449.0" y="1219.0"/>
+      <point x="489.0" y="1219.0" type="qcurve" smooth="yes"/>
+      <point x="529.0" y="1219.0"/>
+      <point x="583.0" y="1273.0"/>
+      <point x="583.0" y="1313.0" type="qcurve" smooth="yes"/>
+      <point x="583.0" y="1353.0"/>
+      <point x="529.0" y="1407.0"/>
+      <point x="489.0" y="1407.0" type="qcurve" smooth="yes"/>
+      <point x="449.0" y="1407.0"/>
+      <point x="395.0" y="1353.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotereversed" format="2">
+  <advance width="498"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="327.0" y="1302.0" type="qcurve" smooth="yes"/>
+      <point x="355.0" y="1424.0" type="line" smooth="yes"/>
+      <point x="365.0" y="1469.0"/>
+      <point x="410.0" y="1469.0" type="qcurve" smooth="yes"/>
+      <point x="526.0" y="1469.0" type="line" smooth="yes"/>
+      <point x="571.0" y="1469.0"/>
+      <point x="561.0" y="1424.0" type="qcurve" smooth="yes"/>
+      <point x="533.0" y="1302.0" type="line" smooth="yes"/>
+      <point x="523.0" y="1257.0"/>
+      <point x="477.0" y="1257.0" type="qcurve" smooth="yes"/>
+      <point x="425.0" y="1257.0" type="line"/>
+      <point x="408.0" y="1182.0"/>
+      <point x="424.0" y="1084.0"/>
+      <point x="452.0" y="1048.0" type="qcurve" smooth="yes"/>
+      <point x="468.0" y="1028.0"/>
+      <point x="451.0" y="1014.0" type="qcurve" smooth="yes"/>
+      <point x="405.0" y="976.0" type="line" smooth="yes"/>
+      <point x="387.0" y="961.0"/>
+      <point x="369.0" y="981.0" type="qcurve" smooth="yes"/>
+      <point x="316.0" y="1040.0"/>
+      <point x="305.0" y="1208.0"/>
+    </contour>
+  </outline>
+</glyph>

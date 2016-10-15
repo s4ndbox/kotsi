@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10043" format="2">
+  <advance width="2232"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="110.0" y="0.0" type="line" smooth="yes"/>
+      <point x="40.0" y="0.0"/>
+      <point x="57.0" y="75.0" type="qcurve" smooth="yes"/>
+      <point x="354.0" y="1359.0" type="line" smooth="yes"/>
+      <point x="371.0" y="1434.0"/>
+      <point x="441.0" y="1434.0" type="qcurve" smooth="yes"/>
+      <point x="593.0" y="1434.0" type="line" smooth="yes"/>
+      <point x="663.0" y="1434.0"/>
+      <point x="646.0" y="1359.0" type="qcurve" smooth="yes"/>
+      <point x="389.0" y="248.0" type="line"/>
+      <point x="861.0" y="248.0" type="line"/>
+      <point x="1118.0" y="1359.0" type="line" smooth="yes"/>
+      <point x="1135.0" y="1434.0"/>
+      <point x="1205.0" y="1434.0" type="qcurve" smooth="yes"/>
+      <point x="1357.0" y="1434.0" type="line" smooth="yes"/>
+      <point x="1427.0" y="1434.0"/>
+      <point x="1410.0" y="1359.0" type="qcurve" smooth="yes"/>
+      <point x="1153.0" y="248.0" type="line"/>
+      <point x="1625.0" y="248.0" type="line"/>
+      <point x="1882.0" y="1359.0" type="line" smooth="yes"/>
+      <point x="1899.0" y="1434.0"/>
+      <point x="1969.0" y="1434.0" type="qcurve" smooth="yes"/>
+      <point x="2121.0" y="1434.0" type="line" smooth="yes"/>
+      <point x="2191.0" y="1434.0"/>
+      <point x="2174.0" y="1359.0" type="qcurve" smooth="yes"/>
+      <point x="1917.0" y="248.0" type="line"/>
+      <point x="2039.0" y="248.0" type="line" smooth="yes"/>
+      <point x="2109.0" y="248.0"/>
+      <point x="2092.0" y="173.0" type="qcurve" smooth="yes"/>
+      <point x="1983.0" y="-300.0" type="line" smooth="yes"/>
+      <point x="1967.0" y="-370.0"/>
+      <point x="1907.0" y="-370.0" type="qcurve" smooth="yes"/>
+      <point x="1777.0" y="-370.0" type="line" smooth="yes"/>
+      <point x="1717.0" y="-370.0"/>
+      <point x="1733.0" y="-300.0" type="qcurve" smooth="yes"/>
+      <point x="1802.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

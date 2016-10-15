@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="2">
+  <advance width="820"/>
+  <unicode hex="F6CE"/>
+  <outline>
+    <contour>
+      <point x="423.0" y="1724.0" type="line" smooth="yes"/>
+      <point x="356.0" y="1785.0"/>
+      <point x="461.0" y="1785.0" type="qcurve" smooth="yes"/>
+      <point x="637.0" y="1785.0" type="line" smooth="yes"/>
+      <point x="709.0" y="1785.0"/>
+      <point x="735.0" y="1738.0" type="qcurve" smooth="yes"/>
+      <point x="809.0" y="1604.0" type="line" smooth="yes"/>
+      <point x="844.0" y="1540.0"/>
+      <point x="770.0" y="1540.0" type="qcurve" smooth="yes"/>
+      <point x="687.0" y="1540.0" type="line" smooth="yes"/>
+      <point x="626.0" y="1540.0"/>
+      <point x="584.0" y="1578.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

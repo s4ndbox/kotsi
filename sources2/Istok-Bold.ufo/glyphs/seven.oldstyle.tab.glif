@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.oldstyle.tab" format="2">
+  <advance width="1200"/>
+  <unicode hex="F64A"/>
+  <outline>
+    <contour>
+      <point x="161.0" y="824.0" type="line" smooth="yes"/>
+      <point x="96.0" y="824.0"/>
+      <point x="96.0" y="889.0" type="qcurve" smooth="yes"/>
+      <point x="96.0" y="1007.0" type="line" smooth="yes"/>
+      <point x="96.0" y="1072.0"/>
+      <point x="161.0" y="1072.0" type="qcurve" smooth="yes"/>
+      <point x="1039.0" y="1072.0" type="line" smooth="yes"/>
+      <point x="1104.0" y="1072.0"/>
+      <point x="1104.0" y="1007.0" type="qcurve" smooth="yes"/>
+      <point x="1104.0" y="894.0" type="line" smooth="yes"/>
+      <point x="1104.0" y="838.0"/>
+      <point x="1054.0" y="787.0" type="qcurve" smooth="yes"/>
+      <point x="825.0" y="555.0"/>
+      <point x="682.0" y="99.0"/>
+      <point x="682.0" y="-143.0" type="qcurve" smooth="yes"/>
+      <point x="682.0" y="-205.0" type="line" smooth="yes"/>
+      <point x="682.0" y="-270.0"/>
+      <point x="617.0" y="-270.0" type="qcurve" smooth="yes"/>
+      <point x="467.0" y="-270.0" type="line" smooth="yes"/>
+      <point x="402.0" y="-270.0"/>
+      <point x="402.0" y="-205.0" type="qcurve" smooth="yes"/>
+      <point x="402.0" y="-178.0" type="line" smooth="yes"/>
+      <point x="402.0" y="147.0"/>
+      <point x="609.0" y="612.0"/>
+      <point x="842.0" y="824.0" type="qcurve"/>
+      <point x="842.0" y="828.0" type="line"/>
+      <point x="802.0" y="824.0"/>
+      <point x="762.0" y="824.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minute" format="2">
+  <advance width="540"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="292.0" y="894.0" type="line" smooth="yes"/>
+      <point x="242.0" y="894.0"/>
+      <point x="256.0" y="954.0" type="qcurve" smooth="yes"/>
+      <point x="383.0" y="1485.0" type="line" smooth="yes"/>
+      <point x="399.0" y="1550.0"/>
+      <point x="449.0" y="1550.0" type="qcurve" smooth="yes"/>
+      <point x="611.0" y="1550.0" type="line" smooth="yes"/>
+      <point x="671.0" y="1550.0"/>
+      <point x="647.0" y="1485.0" type="qcurve" smooth="yes"/>
+      <point x="454.0" y="954.0" type="line" smooth="yes"/>
+      <point x="432.0" y="894.0"/>
+      <point x="390.0" y="894.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

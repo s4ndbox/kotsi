@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="1392"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="-12.0" y="0.0" type="line" smooth="yes"/>
+      <point x="-109.0" y="0.0"/>
+      <point x="-30.0" y="86.0" type="qcurve" smooth="yes"/>
+      <point x="594.0" y="764.0" type="line"/>
+      <point x="297.0" y="1348.0" type="line" smooth="yes"/>
+      <point x="253.0" y="1434.0"/>
+      <point x="355.0" y="1434.0" type="qcurve" smooth="yes"/>
+      <point x="531.0" y="1434.0" type="line" smooth="yes"/>
+      <point x="582.0" y="1434.0"/>
+      <point x="607.0" y="1375.0" type="qcurve" smooth="yes"/>
+      <point x="782.0" y="958.0" type="line"/>
+      <point x="1120.0" y="1375.0" type="line" smooth="yes"/>
+      <point x="1168.0" y="1434.0"/>
+      <point x="1224.0" y="1434.0" type="qcurve" smooth="yes"/>
+      <point x="1459.0" y="1434.0" type="line" smooth="yes"/>
+      <point x="1557.0" y="1434.0"/>
+      <point x="1477.0" y="1348.0" type="qcurve" smooth="yes"/>
+      <point x="898.0" y="722.0" type="line"/>
+      <point x="1222.0" y="86.0" type="line" smooth="yes"/>
+      <point x="1266.0" y="0.0"/>
+      <point x="1164.0" y="0.0" type="qcurve" smooth="yes"/>
+      <point x="985.0" y="0.0" type="line" smooth="yes"/>
+      <point x="934.0" y="0.0"/>
+      <point x="909.0" y="59.0" type="qcurve" smooth="yes"/>
+      <point x="709.0" y="528.0" type="line"/>
+      <point x="330.0" y="59.0" type="line" smooth="yes"/>
+      <point x="282.0" y="0.0"/>
+      <point x="226.0" y="0.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.fontforge.glyphclass</key>
+      <string>noclass</string>
+    </dict>
+  </lib>
+</glyph>

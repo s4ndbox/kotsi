@@ -1,9 +1,5 @@
 {
-.appVersion = "919";
-DisplayStrings = (
-"/Shha-cy/Shhadescender-cy/En-cy/shha-cy/shhadescender-cy/en-cy/En-cy/Eldescender-cy/En-cy/en-cy/eldescender-cy/en-cy",
-"at/ve-cy/a-cy"
-);
+.appVersion = "926";
 classes = (
 {
 automatic = 1;
@@ -1518,7 +1514,7 @@ xHeight = 513;
 glyphs = (
 {
 glyphname = NULL;
-lastChange = "2016-09-03 11:33:41 +0000";
+lastChange = "2016-10-15 02:09:41 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -1529,6 +1525,7 @@ layerId = "A47C7914-817C-44A4-AF12-15F849B12484";
 width = 0;
 }
 );
+unicode = 0000;
 },
 {
 glyphname = CR;
@@ -125777,7 +125774,9 @@ name = Regular;
 instanceInterpolations = {
 "A47C7914-817C-44A4-AF12-15F849B12484" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 kerning = {
