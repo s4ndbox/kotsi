@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="io.alt" format="2">
-  <advance width="1098"/>
-  <outline>
-    <component base="ie.alt"/>
-    <component base="dieresis" xOffset="222.0"/>
-  </outline>
-</glyph>

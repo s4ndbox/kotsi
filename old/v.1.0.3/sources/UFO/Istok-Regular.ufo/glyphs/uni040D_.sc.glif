@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni040D.sc" format="2">
-  <advance width="1210"/>
-  <unicode hex="F202"/>
-  <outline>
-    <component base="grave" xOffset="179.784" yOffset="59.672"/>
-    <component base="afii10026.sc"/>
-  </outline>
-</glyph>

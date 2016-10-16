@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="afii10056.sc" format="2">
-  <advance width="480"/>
-  <unicode hex="F1FC"/>
-  <outline>
-    <component base="Idieresis.sc"/>
-  </outline>
-</glyph>

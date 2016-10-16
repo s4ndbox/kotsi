@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni04D0.sc" format="2">
-  <advance width="1042"/>
-  <unicode hex="F238"/>
-  <outline>
-    <component base="Abreve.sc"/>
-  </outline>
-</glyph>
