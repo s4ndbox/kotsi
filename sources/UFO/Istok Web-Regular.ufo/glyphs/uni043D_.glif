@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043D" format="1">
+  <advance width="547"/>
+  <unicode hex="043D"/>
+  <outline>
+    <contour>
+      <point x="69" y="22" type="line" smooth="yes"/>
+      <point x="69" y="7"/>
+      <point x="76" y="0"/>
+      <point x="91" y="0" type="curve" smooth="yes"/>
+      <point x="133" y="0" type="line" smooth="yes"/>
+      <point x="148" y="0"/>
+      <point x="155" y="7"/>
+      <point x="155" y="22" type="curve" smooth="yes"/>
+      <point x="155" y="235" type="line"/>
+      <point x="392" y="235" type="line"/>
+      <point x="392" y="22" type="line" smooth="yes"/>
+      <point x="392" y="7"/>
+      <point x="399" y="0"/>
+      <point x="414" y="0" type="curve" smooth="yes"/>
+      <point x="456" y="0" type="line" smooth="yes"/>
+      <point x="471" y="0"/>
+      <point x="478" y="7"/>
+      <point x="478" y="22" type="curve" smooth="yes"/>
+      <point x="478" y="491" type="line" smooth="yes"/>
+      <point x="478" y="506"/>
+      <point x="471" y="513"/>
+      <point x="456" y="513" type="curve" smooth="yes"/>
+      <point x="414" y="513" type="line" smooth="yes"/>
+      <point x="399" y="513"/>
+      <point x="392" y="506"/>
+      <point x="392" y="491" type="curve" smooth="yes"/>
+      <point x="392" y="300" type="line"/>
+      <point x="155" y="300" type="line"/>
+      <point x="155" y="491" type="line" smooth="yes"/>
+      <point x="155" y="506"/>
+      <point x="148" y="513"/>
+      <point x="133" y="513" type="curve" smooth="yes"/>
+      <point x="91" y="513" type="line" smooth="yes"/>
+      <point x="76" y="513"/>
+      <point x="69" y="506"/>
+      <point x="69" y="491" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark6"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark3"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark5"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark2"/>
+    </contour>
+    <contour>
+      <point x="273" y="521" type="move" name="mark4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

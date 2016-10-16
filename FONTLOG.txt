@@ -54,7 +54,8 @@ letters as raw material, other charaters are designed from scratch.
 
 2016-09-09 Cyreal v. 2.000
 	Expanded Glyph set to GF Cyrillic Plus
-	Ported sources to .glyphs
+	Ported sources to .glyphs and UFO formats
+	Converted outlines to Postscript format, optimised paths
 
 2014-12-23 Andrey V. Panov
 	added U+20B8, "estimated", "radical", "infinity", "lozenge", U+2071, 

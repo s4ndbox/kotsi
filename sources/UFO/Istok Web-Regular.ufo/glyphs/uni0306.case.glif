@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306.case" format="1">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="50" y="842"/>
+      <point x="97" y="797"/>
+      <point x="124" y="782" type="curve" smooth="yes"/>
+      <point x="156" y="764"/>
+      <point x="191" y="756"/>
+      <point x="226" y="756" type="curve" smooth="yes"/>
+      <point x="294" y="756"/>
+      <point x="366" y="787"/>
+      <point x="399" y="866" type="curve" smooth="yes"/>
+      <point x="401" y="871"/>
+      <point x="402" y="876"/>
+      <point x="402" y="880" type="curve" smooth="yes"/>
+      <point x="402" y="887"/>
+      <point x="399" y="892"/>
+      <point x="392" y="895" type="curve" smooth="yes"/>
+      <point x="369" y="906" type="line"/>
+      <point x="365" y="907"/>
+      <point x="362" y="908"/>
+      <point x="360" y="908" type="curve" smooth="yes"/>
+      <point x="330" y="908"/>
+      <point x="320" y="829"/>
+      <point x="226" y="829" type="curve" smooth="yes"/>
+      <point x="162" y="829"/>
+      <point x="131" y="861"/>
+      <point x="110" y="896" type="curve" smooth="yes"/>
+      <point x="105" y="904"/>
+      <point x="99" y="908"/>
+      <point x="92" y="908" type="curve" smooth="yes"/>
+      <point x="90" y="908"/>
+      <point x="87" y="907"/>
+      <point x="83" y="906" type="curve"/>
+      <point x="59" y="895" type="line" smooth="yes"/>
+      <point x="53" y="892"/>
+      <point x="50" y="887"/>
+      <point x="50" y="880" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="226" y="715" type="move" name="_mark4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

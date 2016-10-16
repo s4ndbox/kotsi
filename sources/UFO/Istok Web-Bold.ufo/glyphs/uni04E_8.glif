@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04E8" format="1">
+  <advance width="754"/>
+  <unicode hex="04E8"/>
+  <outline>
+    <component base="uni0472"/>
+    <contour>
+      <point x="0" y="0" type="move" name="mark3"/>
+    </contour>
+    <contour>
+      <point x="377" y="717" type="move" name="mark2"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark4"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

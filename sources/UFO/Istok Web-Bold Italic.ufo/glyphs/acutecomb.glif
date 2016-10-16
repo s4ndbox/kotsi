@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="293"/>
+  <unicode hex="0301"/>
+  <outline>
+    <component base="acute" xOffset="-20"/>
+    <contour>
+      <point x="249" y="701" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="186" y="513" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

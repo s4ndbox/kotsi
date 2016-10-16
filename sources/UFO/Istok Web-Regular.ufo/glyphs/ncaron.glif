@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="551"/>
+  <unicode hex="0148"/>
+  <outline>
+    <component base="n"/>
+    <component base="uni030C" xOffset="37"/>
+    <contour>
+      <point x="0" y="0" type="move" name="mark6"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark1"/>
+    </contour>
+    <contour>
+      <point x="276" y="0" type="move" name="mark3"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark5"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="mark2"/>
+    </contour>
+    <contour>
+      <point x="276" y="680" type="move" name="mark4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

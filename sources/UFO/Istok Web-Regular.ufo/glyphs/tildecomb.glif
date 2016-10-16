@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="1">
+  <advance width="466"/>
+  <unicode hex="0303"/>
+  <outline>
+    <component base="tilde" xOffset="52"/>
+    <contour>
+      <point x="253" y="521" type="move" name="_mark4"/>
+    </contour>
+    <contour>
+      <point x="267" y="651" type="move" name="mark4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

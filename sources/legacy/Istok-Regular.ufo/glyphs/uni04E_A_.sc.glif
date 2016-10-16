@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni04EA.sc" format="2">
-  <advance width="1174"/>
-  <unicode hex="F245"/>
-  <outline>
-    <component base="afii10147.sc"/>
-    <component base="dieresis" xOffset="280.0" yOffset="30.0"/>
-  </outline>
-</glyph>
