@@ -9,5 +9,3 @@
 
 Andrey V. Panov <panov@iacp.dvo.ru>
 Alexei Vanyashin <a@cyreal.org>
-
-

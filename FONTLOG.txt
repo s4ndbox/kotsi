@@ -1,5 +1,12 @@
+Fontlog of Kotsi Web Fonts
+
+Kotsi is a development fork of Istok Web fonts by Andrey V. Panov
+available at http://code.google.com/p/istok/
+
+
 			In loving memory of my parents, Tat'yana Sergeevna 
 			Lapteva and Valentin Mefod'yevich Panov
+
 
 Istok is a new sans serif typeface. At present it has the four fonts with
 support for Latin and Cyrillic. Most glyphs are manually instructed
@@ -52,7 +59,7 @@ letters as raw material, other charaters are designed from scratch.
 
 				Andrey V. Panov <panov@canopus.iacp.dvo.ru>
 
-2016-09-09 Cyreal v. 2.000
+2016-09-09 Cyreal v. 2.000 Kotsi Web
 	Expanded Glyph set to GF Cyrillic Plus
 	Ported sources to .glyphs and UFO formats
 	Converted outlines to Postscript format, optimised paths
